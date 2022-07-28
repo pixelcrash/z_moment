@@ -2,7 +2,7 @@
 
 Simple function in processing (java) to translate RGB values into RGBW 
 
-´´´
+```
 int[] rgb2rgbw(float r, float g, float b){
   
 
